@@ -3,7 +3,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Learning%20Linux%20Kernel%20Development;Learning%20Linux%20Network%20Subsystem;Learning%20Linux%20System%20Programming;Working%20on%20eBPF%20Development;Forever%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Learning%20Python%20Django%20Framework;Learning%20ML%20And%20AI;Learning%20Python%20Flask%20Framework;Working%20On%20Fullstack%20Development;Forever%20Coding&font=Fira%20Code&center=true&width=440&height=45&color=3498db&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
   <img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
@@ -38,6 +38,6 @@
 <br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anamika-maker-ctrl&show_icons=true&locale=en" alt="anamika-maker-ctrl" />
-  <br>
+  <br><br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anamika-maker-ctrl&" alt="anamika-maker-ctrl" /></p>
 
