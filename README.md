@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Learning%20Linux%20Kernel%20Development;Learning%20Linux%20Network%20Subsystem;Learning%20Linux%20System%20Programming;Working%20on%20eBPF%20Development;Forever%20Learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<br><br>
+
   <img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <br>
 
